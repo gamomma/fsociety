@@ -91,5 +91,5 @@ then
     echo "";
 else
     echo "[✘] Installation failed! [✘] ";
-    exit
+    exitE
 fi
